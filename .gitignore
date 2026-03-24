@@ -1,0 +1,30 @@
+# Node and frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python and backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Application specific
+server/uploads/
+server/enhanced/
+server/history.json
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Agent/AI tools
+.gemini/
+brain/
+implementation_plan.md
+task.md
